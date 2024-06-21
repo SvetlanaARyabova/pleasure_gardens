@@ -4,6 +4,8 @@
 
 ![Сад Помпей](https://github.com/SvetlanaARyabova/pleasure_gardens/blob/main/Ryabova-ill%204.jpg)
 
+../assets/images/electrocat.png
+
 ### Цели проекта:
 
 - соотнести расположение садов с плотностью населения районов, приростом населения в них и социальной стратификацией;
