@@ -1,4 +1,4 @@
-![Сад Помпей](https://drive.google.com/file/d/1uJOqagziWwL4R_OFeBv4HZHTqLSwry1A/view?usp=sharing)
+![Сад Помпей](https://drive.google.com/drive/folders/132iFVv1_AIP9DlRuZsEdcOIurAYFsOPS)
 
 # Увеселительные сады Москвы и Петербурга, 1882 — 1917 #
 
