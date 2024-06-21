@@ -4,7 +4,7 @@
 
 ![Сад Помпей](https://github.com/SvetlanaARyabova/pleasure_gardens/blob/main/Ryabova-ill%204.jpg)
 
-../assets/images/electrocat.png
+![Сад Помпей](blob/main/Ryabova-ill%204.jpg)
 
 ### Цели проекта:
 
