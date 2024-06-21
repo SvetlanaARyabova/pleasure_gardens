@@ -11,4 +11,4 @@
 - проследить, как предприниматели индустрии летних развлечений осваивали новые районы (рабочие окраины города) и новые аудитории, и как городские сообщества закрывали дефицит в организованном летнем досуге в новых районах с растущим населением;
 - выявить, в каких районах и почему была наибольшая концентрация увеселительных заведений, а каких частях города досуговых заведений не было.
 
-<iframe src="https://pleasure-gardens.nextgis.com/resource/98/display/tiny?base=osm-mapnik&lon=30.3286&lat=59.9265&angle=0&zoom=11&styles=75%2C77%2C79%2C81%2C89%2C91&linkMainMap=true&events=false&panel=none&controls=&panels=" style="overflow:hidden;height:600px;width:800px" height="600" width="800"></iframe>
+ [Карта увеселительных садов Петербурга](https://pleasure-gardens.nextgis.com/resource/98/display?panel=layers)
