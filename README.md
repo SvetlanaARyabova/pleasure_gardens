@@ -13,3 +13,9 @@
 - выявить, в каких районах и почему была наибольшая концентрация увеселительных заведений, а каких частях города досуговых заведений не было.
 
 [Карта увеселительных садов Петербурга](https://pleasure-gardens.nextgis.com/resource/126/display?base=osm-mapnik&lon=30.3747&lat=59.9285&angle=0&zoom=11&styles=112,114,110,116,118,128,130)
+
+---
+layout: default
+---
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@4.5.2/dist/slate/bootstrap.min.css">
