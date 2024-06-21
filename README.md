@@ -15,4 +15,4 @@
 [Карта](src="https://pleasure-gardens.nextgis.com/resource/126/display/tiny?base=osm-mapnik&lon=30.3671&lat=59.9696&angle=0&zoom=14&styles=114%2C116%2C118&linkMainMap=true&events=true&panel=none&controls=&panels=" style="overflow:hidden;height:600px;width:800px" height="600" width="800")
 
 
-[Карта увеселительных садов Петербурга](https://pleasure-gardens.nextgis.com/resource/98/display?panel=layers)
+[Карта увеселительных садов Петербурга](https://pleasure-gardens.nextgis.com/resource/126/display?base=osm-mapnik&lon=30.3747&lat=59.9285&angle=0&zoom=11&styles=112,114,110,116,118,128,130)
