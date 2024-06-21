@@ -1,4 +1,4 @@
-![Сад Помпей](https://drive.google.com/drive/folders/132iFVv1_AIP9DlRuZsEdcOIurAYFsOPS)
+![Сад Помпей](https://github.com/SvetlanaARyabova/pleasure_gardens/blob/main/Ryabova-ill%204.jpg)
 
 # Увеселительные сады Москвы и Петербурга, 1882 — 1917 #
 
