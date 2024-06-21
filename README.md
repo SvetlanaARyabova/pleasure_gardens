@@ -14,4 +14,4 @@
 
 [Карта увеселительных садов Петербурга](https://pleasure-gardens.nextgis.com/resource/126/display?base=osm-mapnik&lon=30.3747&lat=59.9285&angle=0&zoom=11&styles=112,114,110,116,118,128,130)
 
-remote_theme: pages-themes/slate
+remote_theme: pages-themes/slate@v0.2.0
