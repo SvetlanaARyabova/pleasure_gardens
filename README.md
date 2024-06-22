@@ -22,5 +22,11 @@
 
 ![Zoo_spb](https://github.com/SvetlanaARyabova/pleasure_gardens/blob/main/images/Zoo_1910_SPB.jpg)
 
+[!NOTE]
+
+###  Ссылки на проекты QGIS
 
 [Qgis проект по увеселительным садам Москвы](https://github.com/SvetlanaARyabova/pleasure_gardens/blob/main/PG_Moscow.qgz)
+
+[Qgis проект по увеселительным садам Петербурга](https://github.com/SvetlanaARyabova/pleasure_gardens/blob/main/PG_Piter.qgz)
+
