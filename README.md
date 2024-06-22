@@ -2,7 +2,7 @@
 
 Данный проект представляет собой динамическую интерактивную карту с увеселительными садами Петербурга и Москвы с 1882 по 1917 год. Это попытка визуализировать насыщенность столичной среды досуговыми заведениями и проанализировать изменений в использовании городского пространства для устройства досуга.
 
-![Сад Помпей]([pleasure_gardens/Ryabova-ill 4.jpg](https://github.com/SvetlanaARyabova/pleasure_gardens/blob/main/Ryabova-ill%204.jpg)
+![Сад Помпей](https://github.com/SvetlanaARyabova/pleasure_gardens/blob/main/Ryabova-ill%204.jpg)
 
 ### Цели проекта:
 
