@@ -22,7 +22,9 @@
 
 ![Zoo_spb](https://github.com/SvetlanaARyabova/pleasure_gardens/blob/main/images/Zoo_1910_SPB.jpg)
 
-[!NOTE]
+
+[!IMPORTANT]
+
 
 ###  Ссылки на проекты QGIS
 
