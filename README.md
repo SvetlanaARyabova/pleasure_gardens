@@ -19,16 +19,14 @@
 [Веб-карта увеселительных садов Москвы](https://pleasure-gardens.nextgis.com/resource/169/display?base=osm-mapnik&lon=37.6158&lat=55.7391&angle=0&zoom=13&styles=154,156,158,160,166,168)
 
 
-
-![Zoo_spb](https://github.com/SvetlanaARyabova/pleasure_gardens/blob/main/images/Zoo_1910_SPB.jpg)
-
-
-[!IMPORTANT]
-
-
 ###  Ссылки на проекты QGIS
 
 [Qgis проект по увеселительным садам Москвы](https://github.com/SvetlanaARyabova/pleasure_gardens/blob/main/PG_Moscow.qgz)
 
 [Qgis проект по увеселительным садам Петербурга](https://github.com/SvetlanaARyabova/pleasure_gardens/blob/main/PG_Piter.qgz)
+
+
+
+![Zoo_spb](https://github.com/SvetlanaARyabova/pleasure_gardens/blob/main/images/Zoo_1910_SPB.jpg)
+
 
