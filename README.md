@@ -28,7 +28,7 @@
 
 
 ![Zoo_spb](https://raw.githubusercontent.com/SvetlanaARyabova/pleasure_gardens/main/images/Zoo_1910_SPB.jpg)
-<span style="font-size:smaller;">*Зоологический сад в Петербурге ("Петербургский листок", 1910 год).*</span>
+<span style="font-size:smaller;">*Зоологический сад в Петербурге ("Петербургский листок", 1910 год)*</span>
 
 
 
