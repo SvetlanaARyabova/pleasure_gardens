@@ -2,7 +2,7 @@
 
 Данный проект представляет собой динамическую интерактивную карту с увеселительными садами Петербурга и Москвы с 1882 по 1917 год. Это попытка визуализировать насыщенность столичной среды досуговыми заведениями и проанализировать изменений в использовании городского пространства для устройства досуга.
 
-![Pompei](https://github.com/SvetlanaARyabova/pleasure_gardens/blob/main/images/Pompei.jpg)
+![Pompei](https://raw.githubusercontent.com/SvetlanaARyabova/pleasure_gardens/main/images/Pompei.jpg)
 
 ### Цели проекта
 
@@ -27,6 +27,6 @@
 
 
 
-![Zoo_spb](https://github.com/SvetlanaARyabova/pleasure_gardens/blob/main/images/Zoo_1910_SPB.jpg)
+![Zoo_spb](https://raw.githubusercontent.com/SvetlanaARyabova/pleasure_gardens/main/images/Zoo_1910_SPB.jpg)
 
 
