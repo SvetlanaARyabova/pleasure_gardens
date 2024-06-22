@@ -26,6 +26,9 @@
 [Qgis проект по увеселительным садам Петербурга](https://github.com/SvetlanaARyabova/pleasure_gardens/blob/main/PG_Piter.qgz)
 
 
+###  Динамические карты
+
+![Alt text](https://raw.githubusercontent.com/SvetlanaARyabova/pleasure_gardens/main/Moscow_dyn_map.mov)
 
 ![Zoo_spb](https://raw.githubusercontent.com/SvetlanaARyabova/pleasure_gardens/main/images/Zoo_1910_SPB.jpg)
 <span style="font-size:smaller;">*Зоологический сад в Петербурге ("Петербургский листок", 1910 год)*</span>
